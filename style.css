@@ -1,0 +1,35 @@
+/* HNG Internship */
+.hng {
+    
+    margin-top: 200px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 60px;
+    text-align: center;
+
+    color: #000000;
+    opacity: 0.8;
+    
+}
+
+.time{
+    
+    text-align: justify;
+    color: #BDBDBD;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.today{
+      
+width: 300px;
+height: 100px;
+background: rgba(0, 0, 0, 0.8);
+border-radius: 20px;
+float: right;
+}
